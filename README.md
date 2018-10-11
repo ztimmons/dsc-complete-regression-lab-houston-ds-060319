@@ -30,6 +30,9 @@ Use the functions created earlier to implement these formulas to run a regressio
 # Combine all the functions created so far to run a complete regression experiment. 
 # Produce an output similar to the one shown below. 
 
+X = np.array([1,2,3,4,5,6,7,8,9,10], dtype=np.float64)
+Y = np.array([7,7,8,9,9,10,10,11,11,12], dtype=np.float64)
+
 ```
 
 
