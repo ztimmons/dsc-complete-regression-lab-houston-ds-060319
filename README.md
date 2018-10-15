@@ -1,24 +1,29 @@
 
-# Regression Lab
+# Complete Regression - Lab
 
+## Introduction
 Now have all the necessary functions to calculate the slope, intercept, best-fit line, prediction and visualizations. In this lab you will put them all together to run a regression experiment and calculate model loss. 
 
-## SWBAT
+## Objectives
 
-* Run a complete regression analysis through code only. 
+You will be able to:
 
-## Here are all the formulas to put everything in perspective
+* Run a complete regression analysis through code only
 
-#### Slope
-<img src="m.png" width = 300>
+## The formulas
 
-#### Intercept 
-<img src="b.png" width = 200>
+Here are all the formulas to put everything in perspective
 
-#### R-squared
-<img src="r2.png" width = 400>
+### Slope
+<img src="m.png" width = 200>
 
-#### Prediction
+### Intercept 
+<img src="b.png" width = 180>
+
+### R-squared
+<img src="r2.png" width = 420>
+
+### Prediction
 ![](pred.jpg)
 
 
