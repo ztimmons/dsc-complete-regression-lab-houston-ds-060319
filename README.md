@@ -136,7 +136,7 @@ y_new
 
 plt.scatter(X,Y,color='#000F72',label='data')
 plt.plot(X, Y_pred, color='#880000', label='regression line')
-plt.scatter(x_new,y_new,color='r',label='Prediction: '+ str(np.round(y_predicted,1)))
+plt.scatter(x_new,y_new,color='r',label='Prediction: '+ str(np.round(y_new,1)))
 plt.legend(loc=4)
 plt.show()
 
