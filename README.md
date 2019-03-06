@@ -1,6 +1,8 @@
 
 # Regression Lab
 
+## Introduction
+
 Now have all the necessary functions to calculate the slope, intercept, best-fit line, prediction and visualizations. In this lab you will put them all together to run a regression experiment and calculate model loss. 
 
 ## SWBAT
@@ -56,7 +58,7 @@ Y = np.array([7,7,8,9,9,10,10,11,11,12], dtype=np.float64)
 
 
 
-![png](index_files/index_3_1.png)
+![png](index_files/index_2_1.png)
 
 
 ## Make Predictions
@@ -75,7 +77,7 @@ Predict and plot the value of y using regression line above for a new value of x
 ```
 
 
-![png](index_files/index_6_0.png)
+![png](index_files/index_5_0.png)
 
 
 ## Level up - Optional 
