@@ -12,7 +12,7 @@ You will be able to:
 
 ## The formulas
 
-** Slope**: 
+**Slope**: 
 $\hat m = \dfrac{\overline{x}*\overline{y}-\overline{xy}}{(\overline{x})^2-\overline{x^2}}$
 
 
@@ -20,7 +20,7 @@ $\hat m = \dfrac{\overline{x}*\overline{y}-\overline{xy}}{(\overline{x})^2-\over
 
 **Prediction**: $\hat{y} = \hat mx + \hat c$
 
-** R-Squared**: 
+**R-Squared**: 
 $ R^2 = 1- \dfrac{SS_{RES}}{SS_{TOT}} = \dfrac{\sum_i(y_i - \hat y_i)^2}{\sum_i(y_i - \overline y_i)^2} $
 
 
