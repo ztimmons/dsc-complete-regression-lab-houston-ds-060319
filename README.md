@@ -21,7 +21,7 @@ $\hat m = \dfrac{\overline{x}*\overline{y}-\overline{xy}}{(\overline{x})^2-\over
 **Prediction**: $\hat{y} = \hat mx + \hat c$
 
 ** R-Squared**: 
-$ R^2 = 1- \dfrac{SS_{RES}}{SS_{TOT}} = \dfrac{\sum_i(y_i - \hat y_i)^2}{\sum_i(y_i - \overline y_i)^2} $
+$ R^2 = 1- \dfrac{SS_{RES}}{SS_{TOT}} = 1 - \dfrac{\sum_i(y_i - \hat y_i)^2}{\sum_i(y_i - \overline y_i)^2} $
 
 
 Use the python functions created earlier to implement these formulas to run a regression analysis using x and y as input variables. 
